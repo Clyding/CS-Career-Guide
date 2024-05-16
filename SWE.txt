@@ -1,0 +1,61 @@
+// SWE.txt
+Being a Software Engineer is obviously the popular road. Nevertheless, 
+the road could be messy. Please find the information below useful for your 
+journey to become a Software Engineer at a Fortune 500 Company.
+
+
+Computer Science Classes:
+1. Software Engineering Principles
+2. Agile Development Methods
+3. Software Testing and Quality Assurance
+4. Data Structures and Algorithms
+5. Algorithms Design / Parallel Algorithms
+6. Computer Systems and Architechture
+7. Database Design Development
+
+Projects:
+1. Web-Based Project Management System
+2. Mobile App Development for Health Tracking
+3. Automated Testing Framework
+
+Programming Languages:
+- Java
+- Python
+- JavaScript
+- C++
+
+Events:
+1. Software Engineering Conference
+2. Hackathon for Software Engineers
+
+Companies:
+1. Microsoft
+2. Google
+3. Amazon
+4. LinkedIN
+5. Meta
+6. SpaceX
+7. Tesla
+8. Oracle Corporation
+9. Adobe Systems
+10. Intel Corporation
+11. Atlassian
+12. JetBrains
+13. Red Hat
+14. SAP SE
+15. Cisco Systems
+16. Salesforce
+17. Bloomberg
+18. Symantec Corporation
+19. Northrop Grumann
+20. Raytheon Technologies
+21. Apple
+22. Dell 
+23. HP
+24. Invidia
+25. Netflix
+26. Roblox
+27. Discord
+28. Okta
+29. Pinterest
+30. ServiceNow

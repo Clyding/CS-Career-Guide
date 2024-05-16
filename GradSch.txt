@@ -1,0 +1,57 @@
+// GradSch.txt
+Excellent Choice. I personally have a great interest in becoming a Professor or an 
+AI Researcher. Please find the information below useful for an amazing Career ahead!
+
+
+Computer Science Classes:
+1. Research Methods in Computer Science
+2. Advanced Algorithms and Data Structures
+3. Intro Machine Learning / Artificial Intelligence 
+4. Cybersecurity
+
+Projects:
+1. Research Project in Artificial Intelligence
+2. Thesis on Cybersecurity
+3. Data Mining Project
+
+Programming Languages:
+- Python
+- R
+- Java
+- C++
+
+Events:
+1. Graduate School Information Sessions
+2. Research Symposiums
+
+Companies:
+1. Massachusetts Institute of Technology (MIT) - Computer Science and Artificial Intelligence Laboratory (CSAIL)
+2. Stanford University - Stanford Artificial Intelligence Lab (SAIL)
+3. Carnegie Mellon University - Robotics Institute
+4. Harvard University - Harvard Robotics Laboratory
+5. Berkeley Artificial Intelligence Research Lab (BAIR) - University of California, Berkeley
+6. Allen Institute for Artificial Intelligence (AI2)
+7. OpenAI
+8. Max Planck Institute for Intelligent Systems
+9. ETH Zurich - Computer Vision Lab
+10. MIT Media Lab
+11. Harvard University
+12. Yale University
+13. Morgan State University
+14. Princeton University
+15. Columbia University
+16. University of Pennsylvania
+17. Brown University
+18. Dartmouth College
+19. Cornell University
+20. Meta Advanced AI ML Research
+21. Bell Labs
+22. Lawrence Livermore National Laboratory
+23. Los Alamos National Laboratory
+24. Max Planck Institute
+25. National Institutes of Health (NIH)
+26. European Organization for Nuclear Research (CERN)
+27. Woods Hole Oceanographic Institution
+28. Howard Hughes Medical Institute
+29. Jet Propulsion Laboratory (JPL)
+30. Fermi National Accelerator Laboratory (Fermilab)

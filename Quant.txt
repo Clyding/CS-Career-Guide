@@ -1,0 +1,56 @@
+// Quant.txt
+Being a quantitative trader is an excellent choice. Below are 
+available information and guidelines to help you in your journey.
+
+
+Computer Science Classes:
+1. Quantum Computing Fundamentals
+2. Advanced Quantum Algorithms
+3. Quantum Information Theory
+
+Projects:
+1. Quantum Key Distribution System
+2. Quantum Circuit Simulator
+3. Quantum Machine Learning Model
+
+Programming Languages:
+- Qiskit
+- Cirq
+- Quipper
+- C++
+
+Events:
+1. International Conference on Quantum Computing
+2. Quantum Computing Hackathon
+
+Companies:
+1. IBM Quantum
+2. Google Quantum AI Lab
+3. Rigetti Computing
+4. D-Wave Systems
+5. IonQ
+6. Quantum Circuits Inc.
+7. Xanadu Quantum Technologies
+8. Zapata Computing
+9. Honeywell Quantum Solutions
+10. Q-CTRL
+11. Rigetti Computing
+12. QC Ware
+13. JaneStreet
+14. Two Sigma
+15. SIG
+16. Hudson Trading
+17. Qualtrics
+18. Radix Trading
+19. Five Rings
+20. ArrowStreet Capital
+21. Optiver
+22. Citadel
+23. Chicago Trading Company
+24. Flow Traders
+25. Jump Trading
+26. Schonfield
+27. DE Shaw
+28. IMC Trading
+29. DRW
+30. TradeWEB

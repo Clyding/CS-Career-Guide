@@ -1,0 +1,56 @@
+// Fintech.txt
+Welcome to the world of breakthrough technology. Acquaint yourself with these 
+skillsets with time, and you would become an indispensable asset.
+
+
+Computer Science Classes:
+1. Introduction to Financial Technology
+2. Blockchain and Cryptocurrencies
+3. Algorithmic Trading Strategies
+
+Projects:
+1. Cryptocurrency Wallet App
+2. Smart Contract Development
+3. Algorithmic Trading Bot
+
+Programming Languages:
+- Solidity
+- Python
+- Java
+
+Events:
+1. Fintech Summit
+2. Blockchain Technology Expo
+
+Companies:
+1. Coinbase
+2. Robinhood
+3. Square
+4. Fidelity Investments
+5. PayPal
+6. Square, Inc.
+7. Stripe
+8. SoFi
+9. Adyen
+10. TransferWise (Wise)
+11. Plaid
+12. Revolut
+13. Affirm
+13. Wells Fargo
+14. Credit Karma
+15. Ripple
+16. Capital One
+17. JP Morgan Chase
+18. Goldman Sachs
+19. American Express
+20. Bank of America
+21. Fanni Mae
+22. Citi
+23. Visa
+24. Liberty Mutual
+25. PNC
+26. M&T Bank
+27. Progressive
+28. Lincoln Financial Group
+29. Paycomm
+30. Santander
